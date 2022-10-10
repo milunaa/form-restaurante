@@ -1,0 +1,18 @@
+@import '../abstract/variaveis';
+
+.button{
+    width: 622px;
+    height: 51px;
+    border: none;
+    margin: 76px auto 76px;
+    background: $random-bg;
+    border-radius: 8px;
+    font-family: cursive;
+    font-size: 20px;
+    line-height: 26px;
+    color: $branco-primario;
+    &:hover {
+      background: $button-hover;
+      cursor: pointer;
+    }
+}

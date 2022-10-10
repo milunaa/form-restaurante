@@ -1,0 +1,17 @@
+@import './variaveis';
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  
+body {
+    font-family: $fonte-secundaria;
+    background: $body-bg;
+    color: $body-color
+}
+
+h1, h2, legend, button {
+    font-family: $fonte-primaria;
+}

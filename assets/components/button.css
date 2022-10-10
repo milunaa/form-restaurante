@@ -1,0 +1,16 @@
+.button {
+  width: 622px;
+  height: 51px;
+  border: none;
+  margin: 76px auto 76px;
+  background: rgba(62, 75, 129, 0.6705882353);
+  border-radius: 8px;
+  font-family: cursive;
+  font-size: 20px;
+  line-height: 26px;
+  color: #FFFFFF;
+}
+.button:hover {
+  background: #5666ad;
+  cursor: pointer;
+}/*# sourceMappingURL=button.css.map */

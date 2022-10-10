@@ -1,0 +1,10 @@
+@import '../abstract/variaveis';
+
+.footer{
+    background: $footer-bg;
+    padding: 25px;
+    font-size: 16px;
+    color: $footer-color;
+    letter-spacing: 5px;
+    text-align: center;
+}
