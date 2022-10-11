@@ -28,7 +28,6 @@ label {
 }
 
 .input-wrapper input, .input-wrapper textarea {
-  font-family: "sans-serif", cursive;
   margin-bottom: 15px;
   background: #FAFAFC;
   border: 1px solid #E6E6F0;
@@ -65,7 +64,6 @@ select {
   width: 300px;
   height: 56px;
   padding: 0 24px;
-  font-family: "sans-serif", cursive;
   font-size: 16px;
   line-height: 26px;
 }

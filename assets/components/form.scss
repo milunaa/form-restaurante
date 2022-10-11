@@ -31,7 +31,6 @@ label{
 
 .input-wrapper {
     input, textarea {
-    font-family: $fonte-secundaria;
     margin-bottom: 15px;
     background: $bg;
     border: 1px solid $border;
@@ -69,7 +68,6 @@ select{
     width: 300px;
     height: 56px;
     padding: 0 24px;
-    font-family: $fonte-secundaria;
     font-size: 16px;
     line-height: 26px;
 }
